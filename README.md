@@ -2,8 +2,6 @@
 
 ## *Introduction*
 
--
-
 ## *Contents*
 * **Macro** : Macro
 * **Crawler** : Web Crawler
