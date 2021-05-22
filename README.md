@@ -1,10 +1,9 @@
 # Useful Tools for TE Lab
 
 ## *Introduction* 
-* *소개글 정리*
+* *소개글(추후 정리)*
 
 ## *Contents*
-* *폴더별 용도 정리*
 * **Macro** : 각종 매크로 코드
 * **Crawler** : 웹 크롤러(이미지 자동 다운로드, 자동 스크랩 등)
 
