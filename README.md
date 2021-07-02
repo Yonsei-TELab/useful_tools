@@ -1,7 +1,7 @@
 # Useful Tools for TE Lab
 
 ## *Introduction* 
-* *소개글(추후 정리)*
+* 여러 상황에서 필요한/유용한/시간을 절약할 수 있는 코드들입니다.
 
 ## *Contents*
 * **Macro** : 각종 매크로 코드
