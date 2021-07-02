@@ -10,3 +10,5 @@
 * **`Google_Image_Crawler.ipynb`** : 키워드에 따른 구글 이미지 자동 다운로드
 ### API
 * **`api_xml_EVCharger_Info.ipynb`** : data.go.kr의 API로부터 EVCharger xml 정보 다운로드
+* **`api_json_routeCd.ipynb`** : 고속도로공공데이터포털 API로부터 전국 고속도로 json 노선정보 다운로드
+* **`api_json_workzone.ipynb`** : 고속도로공공데이터포털 API로부터 전국 고속도로 공사예정계획 다운로드
